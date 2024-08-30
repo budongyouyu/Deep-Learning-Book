@@ -1,0 +1,17 @@
+*.pmml
+*.pyc
+*.so
+*.pyd
+*~
+.#*
+*.dot
+*.svg
+*.png
+*.zip
+*.lprof
+*.swp
+*.swo
+.ipynb_checkpoints
+.DS_Store
+build
+logs
